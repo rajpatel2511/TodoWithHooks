@@ -1,0 +1,12 @@
+1: creact a new react app
+
+2:creat a basic UI
+
+3:Add input and submit button
+
+4:creat a functional componant with hooks
+
+5:after this add one ADD function 
+
+6:also ADD one RESET function
+
